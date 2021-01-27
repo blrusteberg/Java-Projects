@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Knapsack
+comment0.text=\r\n\ Author\:\ Blake\ Rusteberg\r\n\ Program\:\ Project\ 6\r\n\ Date\:\ 4/22/2019\ \r\n\ Class\:\ Knapsack\r\n
+comment1.params=
+comment1.target=Knapsack()
+comment2.params=x\ y
+comment2.target=int\ findMax(int,\ int)
+comment3.params=W\ wArr\ vArr\ n
+comment3.target=void\ knapsackAlgo(int,\ int[],\ int[],\ int)
+numComments=4

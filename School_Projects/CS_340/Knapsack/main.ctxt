@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ Author\:\ Blake\ Rusteberg\r\n\ Program\:\ Project\ 6\r\n\ Date\:\ 4/22/2019\ \r\n\ Class\:\ main\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName
+comment2.target=void\ openFile(java.lang.String)
+numComments=3
